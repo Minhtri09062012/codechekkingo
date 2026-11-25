@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "CodeTrekking - Hành trình chinh phục thuật toán, từng bước một",
+  "short_name": "CodeTrek",
+  "description": "CodeTrekking – Hành trình chinh phục thuật toán, từng bước một. Nền tảng trực quan hoá từng bước thuật toán Python và luyện thi Tin học trẻ, HSG Tin học.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
